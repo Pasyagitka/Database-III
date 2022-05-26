@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "0I9kGJlqNyd2Rg4qjZoUjmtdKViw4gSI6atvgSXHU2EhAgJC3RM9sZGdnQ2UHx35xOMGz66qYGMAWUzJzCQ5dg==",
+  "success": true,
+  "projectFilePath": "D:\\6 semester\\Laboratory\\Database\\11\\11_app\\11_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasyagitka\\.nuget\\packages\\microsoft.data.sqlite\\6.0.5\\microsoft.data.sqlite.6.0.5.nupkg.sha512",
+    "C:\\Users\\pasyagitka\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.5\\microsoft.data.sqlite.core.6.0.5.nupkg.sha512",
+    "C:\\Users\\pasyagitka\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.6\\sqlitepclraw.bundle_e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\pasyagitka\\.nuget\\packages\\sqlitepclraw.core\\2.0.6\\sqlitepclraw.core.2.0.6.nupkg.sha512",
+    "C:\\Users\\pasyagitka\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.6\\sqlitepclraw.lib.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\pasyagitka\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.6\\sqlitepclraw.provider.e_sqlite3.2.0.6.nupkg.sha512",
+    "C:\\Users\\pasyagitka\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
